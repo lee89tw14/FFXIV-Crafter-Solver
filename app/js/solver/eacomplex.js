@@ -26,9 +26,11 @@ ALGORITHMS['eaComplex'] = {
   gen: function (population, toolbox, hof) {
     // select parents
     var parents = toolbox.selectParents(population.length / 2, population);
+    console.log(parents.length)
 
     // breed offspring
     var offspring = yagal_algorithms.varAnd(parents, toolbox, 0.5, 0.2);
+    console.log(offspring.length)
 
     function isFitnessInvalid(ind) {
       return !ind.fitness.valid();
@@ -43,11 +45,14 @@ ALGORITHMS['eaComplex'] = {
 
     // select offspring
     offspring = toolbox.selectOffspring(offspring.length / 2, offspring);
+    console.log(offspring.length)
 
     // select survivors
     var survivors = toolbox.selectSurvivors(population.length - offspring.length, population);
+    console.log(survivors.length)
 
     var nextPop = offspring.concat(survivors);
+    console.log(nextPop.length)
 
     if (hof !== undefined) {
       hof.update(nextPop);
