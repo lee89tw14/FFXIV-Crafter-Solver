@@ -160,14 +160,12 @@
             <tab heading="{{ 'PROBABILISTIC_SIM' | translate }}" active="logTabs.ga.active">
                 <pre>{{pageState.solverStatus.logs.ga}}</pre>
             </tab>
-            <!--  (useless) Monte Carlo Solver removed to reduce confusion with this tool.
             <tab active="logTabs.mc.active">
                 <tab-heading>{{ 'MONTE_CARLO_SIM' | translate}} &nbsp; <i class="fa fa-refresh flat-button"
                                                                           ng-click="runMonteCarloSim(pageState.solverStatus.sequence)"></i>
                 </tab-heading>
                 <pre>{{pageState.solverStatus.logs.mc}}</pre>
             </tab>
-            -->
             <tab active="logTabs.macro.active">
                 <tab-heading>{{ 'MACRO' | translate }}</tab-heading>
                 <macros sequence="pageState.solverStatus.sequence" cls="recipe.cls" options="macroOptions"></macros>
