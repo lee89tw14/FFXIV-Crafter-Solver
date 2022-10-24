@@ -15790,6 +15790,25 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
+      "de": "Tatami-Empore",
+      "en": "Tatami Loft",
+      "fr": "Mezzanine en tatami",
+      "ja": "タタミロフト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
       "de": "Gartenzelt",
       "en": "Camping Tent",
       "fr": "Tente de camping",
