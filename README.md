@@ -28,4 +28,7 @@ Localization files can be found in `app/locale`. The `app/locale/en.json` file i
 
 For the notranged.github.io version of this tool, I have written a new Python scraper that pulls recipe data from xivapi.com. Whenever FFXIV gets updated with new crafting recipes, run main_scraper.py found in scripts/ranged-python-xivapi-extractor/. It will create new .json files for each job in the /out/ folder. Use these to replace the old .json files in app/data/recipedb/
 
-I haven't made this script work for food and medicine buffs yet, though. You will have to use [the old lodestone scraper](https://github.com/doxxx/lodestone-recipe-db-scraper) for that. 
+# Food and Medicine
+I haven't made this script work for food and medicine buffs yet, though. You will have to use [the old lodestone scraper](https://github.com/doxxx/lodestone-recipe-db-scraper) for that. Run it with argument --buffs, e.g. 'python main.py --buffs'
+
+At some point I made an [updated version of that script](https://github.com/NotRanged/ranged-lodestone-recipe-db-scraper) but idk what i changed about it anymore i forgor 💀
