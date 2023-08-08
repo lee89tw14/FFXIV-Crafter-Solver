@@ -13,7 +13,8 @@ PARENT_DIR = Path(__file__).parents[1]
 
 
 class Buffs:
-    def __init__(self, cp_percent, cp_value, craft_percent, craft_value, control_percent, control_value, hq, name, name_de, name_fr, name_ja):
+    def __init__(self, id, cp_percent, cp_value, craft_percent, craft_value, control_percent, control_value, hq, name, name_de, name_fr, name_ja):
+        self.id = id
         self.cp_percent = cp_percent
         self.cp_value = cp_value
         self.craftsmanship_percent = craft_percent
@@ -28,6 +29,7 @@ class Buffs:
             "ja": name_ja,
         }
 
+
 def construct_recipe_json(original_recipe):
     """
     Returns a recipe dictionary in the format desired by the FFXIV crafting solver.
@@ -36,6 +38,7 @@ def construct_recipe_json(original_recipe):
     if original_recipe["RecipeLevelTable"] is None:
         return
     recipe = {
+        "id": original_recipe["ID"],
         "name": {},
         "baseLevel": original_recipe["RecipeLevelTable"]["ClassJobLevel"],
         "level": original_recipe["RecipeLevelTable"]["ID"],
@@ -74,7 +77,7 @@ def api_call(page_id, recipes):
     """
     Handles the actual API calls.
     """
-    url_call = f'https://xivapi.com/Recipe?page={page_id}&columns=Name_en,Name_de,Name_fr,Name_ja,' \
+    url_call = f'https://xivapi.com/Recipe?page={page_id}&columns=ID,Name_en,Name_de,Name_fr,Name_ja,' \
                f'ClassJob.NameEnglish,DurabilityFactor,QualityFactor,DifficultyFactor,RequiredControl,' \
                f'RequiredCraftsmanship,RecipeLevelTable'
     r = requests.get(url_call)
@@ -114,6 +117,7 @@ def save_data_to_json(recipes):
     """
     Path(f'{PARENT_DIR}/app/data/recipedb/').mkdir(parents=True, exist_ok=True)
     for class_job, class_recipes in recipes.items():
+        class_recipes = sorted(class_recipes, key=lambda x: x["id"])
         with open(f"{PARENT_DIR}/app/data/recipedb/{class_job}.json", mode="w", encoding="utf-8") as my_file:
             json.dump(class_recipes, my_file, indent=2, sort_keys=True, ensure_ascii=False)
 
@@ -124,7 +128,7 @@ def extract_buff_data(buff_name):
     """
     params = {
         "indexes": "item",
-        "columns": "Name,Bonuses,Name_en,Name_de,Name_fr,Name_ja",
+        "columns": "ID,Name,Bonuses,Name_en,Name_de,Name_fr,Name_ja",
         "body": {
             "query": {
                 "bool": {
@@ -152,6 +156,7 @@ def extract_buff_data(buff_name):
         # Extract both HQ and NQ buff data
         for hq in [False, True]:
             new_item = vars(Buffs(
+                item.get("ID"),
                 item.get("Bonuses", {}).get("CP", {}).get("Value"),
                 item.get("Bonuses", {}).get("CP", {}).get("Max"),
                 item.get("Bonuses", {}).get("Craftsmanship", {}).get("Value"),
@@ -187,4 +192,5 @@ if __name__ == '__main__':
 
     for buff_name in buff_types:
         buffs = extract_buff_data(buff_name)
+        buffs = sorted(buffs, key=lambda x: (x["id"], x["hq"]))
         save_buffs_to_file(buffs, buff_name)
