@@ -1,6 +1,6 @@
 # FFXIV Crafting Optimizer Website
 
-This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
+This project contains the source for the [FFXIV Crafting Optimizer Website](https://notranged.github.io/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
 # Updating item and food databases
 
