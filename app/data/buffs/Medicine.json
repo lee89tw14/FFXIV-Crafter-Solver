@@ -1,218 +1,1182 @@
 [
   {
-    "control_percent": 2,
-    "control_value": 40,
+    "control_percent": 8,
+    "control_value": 4,
     "hq": false,
-    "id": "95ea832259a",
+    "id": 4666,
     "name": {
-      "de": "Fachkenntnis-Kräuterwein",
-      "en": "Commanding Craftsman's Draught",
-      "fr": "Potion spiritueuse de maîtrise",
-      "ja": "巨匠の薬酒"
+      "de": "Salzdorsch",
+      "en": "Salt Cod",
+      "fr": "Morue salée",
+      "ja": "ソルトコッド"
     }
   },
   {
-    "control_percent": 3,
-    "control_value": 50,
+    "control_percent": 8,
+    "control_value": 4,
     "hq": true,
-    "id": "95ea832259a",
+    "id": 4666,
     "name": {
-      "de": "Fachkenntnis-Kräuterwein",
-      "en": "Commanding Craftsman's Draught",
-      "fr": "Potion spiritueuse de maîtrise",
-      "ja": "巨匠の薬酒"
+      "de": "Salzdorsch",
+      "en": "Salt Cod",
+      "fr": "Morue salée",
+      "ja": "ソルトコッド"
     }
   },
   {
-    "control_percent": 2,
-    "control_value": 34,
+    "control_percent": 8,
+    "control_value": 8,
     "hq": false,
-    "id": "99c8f8f8de2",
+    "id": 4667,
     "name": {
-      "de": "Artisanentrank der Fachkenntnis",
-      "en": "Commanding Craftsman's Syrup",
-      "fr": "Potion de maîtrise",
-      "ja": "巨匠の水薬"
+      "de": "Rohe Auster",
+      "en": "Raw Oyster",
+      "fr": "Huître crue",
+      "ja": "ローオイスター"
     }
   },
   {
-    "control_percent": 3,
-    "control_value": 42,
+    "control_percent": 8,
+    "control_value": 8,
     "hq": true,
-    "id": "99c8f8f8de2",
+    "id": 4667,
     "name": {
-      "de": "Artisanentrank der Fachkenntnis",
-      "en": "Commanding Craftsman's Syrup",
-      "fr": "Potion de maîtrise",
-      "ja": "巨匠の水薬"
+      "de": "Rohe Auster",
+      "en": "Raw Oyster",
+      "fr": "Huître crue",
+      "ja": "ローオイスター"
     }
   },
   {
-    "control_percent": 2,
-    "control_value": 20,
+    "control_percent": 8,
+    "control_value": 12,
     "hq": false,
-    "id": "3574f8c53d8",
+    "id": 4668,
     "name": {
-      "de": "Handwerkerlegenden-Tee",
-      "en": "Commanding Craftsman's Tea",
-      "fr": "Infusion de maîtrise",
-      "ja": "巨匠の薬茶"
+      "de": "Gekochte Brasse",
+      "en": "Boiled Bream",
+      "fr": "Brème bouillie",
+      "ja": "ボイルドブリーム"
     }
   },
   {
-    "control_percent": 3,
+    "control_percent": 8,
+    "control_value": 12,
+    "hq": true,
+    "id": 4668,
+    "name": {
+      "de": "Gekochte Brasse",
+      "en": "Boiled Bream",
+      "fr": "Brème bouillie",
+      "ja": "ボイルドブリーム"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 14,
+    "hq": false,
+    "id": 4669,
+    "name": {
+      "de": "Gebratene Seezunge",
+      "en": "Baked Sole",
+      "fr": "Sole au four",
+      "ja": "ベイクドソール"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 14,
+    "hq": true,
+    "id": 4669,
+    "name": {
+      "de": "Gebratene Seezunge",
+      "en": "Baked Sole",
+      "fr": "Sole au four",
+      "ja": "ベイクドソール"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 16,
+    "hq": false,
+    "id": 4670,
+    "name": {
+      "de": "Thunfisch-Miqo'Kebab",
+      "en": "Tuna Miq'abob",
+      "fr": "Miqo-brochette de thon",
+      "ja": "ミコッテ風海の幸串焼"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 16,
+    "hq": true,
+    "id": 4670,
+    "name": {
+      "de": "Thunfisch-Miqo'Kebab",
+      "en": "Tuna Miq'abob",
+      "fr": "Miqo-brochette de thon",
+      "ja": "ミコッテ風海の幸串焼"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 18,
+    "hq": false,
+    "id": 4671,
+    "name": {
+      "de": "Dorsch im Schlafrock",
+      "en": "Salt Cod Puffs",
+      "fr": "Choux à la morue salée",
+      "ja": "ソルトコッドパフ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 18,
+    "hq": true,
+    "id": 4671,
+    "name": {
+      "de": "Dorsch im Schlafrock",
+      "en": "Salt Cod Puffs",
+      "fr": "Choux à la morue salée",
+      "ja": "ソルトコッドパフ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 25,
+    "hq": false,
+    "id": 4672,
+    "name": {
+      "de": "Gebratener Mahi-Mahi",
+      "en": "Pan-fried Mahi-mahi",
+      "fr": "Mahi-mahi frit",
+      "ja": "マヒマヒの揚げ焼き"
+    }
+  },
+  {
+    "control_percent": 8,
     "control_value": 25,
     "hq": true,
-    "id": "3574f8c53d8",
+    "id": 4672,
     "name": {
-      "de": "Handwerkerlegenden-Tee",
-      "en": "Commanding Craftsman's Tea",
-      "fr": "Infusion de maîtrise",
-      "ja": "巨匠の薬茶"
+      "de": "Gebratener Mahi-Mahi",
+      "en": "Pan-fried Mahi-mahi",
+      "fr": "Mahi-mahi frit",
+      "ja": "マヒマヒの揚げ焼き"
     }
   },
   {
-    "craftsmanship_percent": 2,
-    "craftsmanship_value": 40,
+    "cp_percent": 10,
+    "cp_value": 10,
     "hq": false,
-    "id": "f7bfd7f60b2",
+    "id": 4716,
     "name": {
-      "de": "Facharbeiter-Kräuterwein",
-      "en": "Competent Craftsman's Draught",
-      "fr": "Potion spiritueuse de virtuosité",
-      "ja": "名匠の薬酒"
+      "de": "Frumenty",
+      "en": "Frumenty",
+      "fr": "Fromentée",
+      "ja": "フルメンティ"
     }
   },
   {
-    "craftsmanship_percent": 3,
-    "craftsmanship_value": 50,
+    "cp_percent": 10,
+    "cp_value": 10,
     "hq": true,
-    "id": "f7bfd7f60b2",
+    "id": 4716,
     "name": {
-      "de": "Facharbeiter-Kräuterwein",
-      "en": "Competent Craftsman's Draught",
-      "fr": "Potion spiritueuse de virtuosité",
-      "ja": "名匠の薬酒"
+      "de": "Frumenty",
+      "en": "Frumenty",
+      "fr": "Fromentée",
+      "ja": "フルメンティ"
     }
   },
   {
-    "craftsmanship_percent": 2,
-    "craftsmanship_value": 33,
-    "hq": false,
-    "id": "92d3ba5a6d6",
-    "name": {
-      "de": "Artisanentrank der Effizienz",
-      "en": "Competent Craftsman's Syrup",
-      "fr": "Potion de virtuosité",
-      "ja": "名匠の水薬"
-    }
-  },
-  {
-    "craftsmanship_percent": 3,
-    "craftsmanship_value": 41,
-    "hq": true,
-    "id": "92d3ba5a6d6",
-    "name": {
-      "de": "Artisanentrank der Effizienz",
-      "en": "Competent Craftsman's Syrup",
-      "fr": "Potion de virtuosité",
-      "ja": "名匠の水薬"
-    }
-  },
-  {
-    "craftsmanship_percent": 2,
-    "craftsmanship_value": 20,
-    "hq": false,
-    "id": "373c88c80d3",
-    "name": {
-      "de": "Handwerkermeister-Tee",
-      "en": "Competent Craftsman's Tea",
-      "fr": "Infusion de virtuosité",
-      "ja": "名匠の薬茶"
-    }
-  },
-  {
-    "craftsmanship_percent": 3,
-    "craftsmanship_value": 25,
-    "hq": true,
-    "id": "373c88c80d3",
-    "name": {
-      "de": "Handwerkermeister-Tee",
-      "en": "Competent Craftsman's Tea",
-      "fr": "Infusion de virtuosité",
-      "ja": "名匠の薬茶"
-    }
-  },
-  {
-    "cp_percent": 5,
+    "cp_percent": 10,
     "cp_value": 17,
     "hq": false,
-    "id": "cc9aeb31e48",
+    "id": 4717,
     "name": {
-      "de": "Fachwissen-Kräuterwein",
-      "en": "Cunning Craftsman's Draught",
-      "fr": "Potion spiritueuse de capacité",
-      "ja": "魔匠の薬酒"
+      "de": "Steinsuppe",
+      "en": "Stone Soup",
+      "fr": "Soupe de pierre",
+      "ja": "ストーンスープ"
     }
   },
   {
-    "cp_percent": 6,
+    "cp_percent": 10,
+    "cp_value": 17,
+    "hq": true,
+    "id": 4717,
+    "name": {
+      "de": "Steinsuppe",
+      "en": "Stone Soup",
+      "fr": "Soupe de pierre",
+      "ja": "ストーンスープ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 21,
+    "hq": false,
+    "id": 4718,
+    "name": {
+      "de": "Erbsensuppe",
+      "en": "Pea Soup",
+      "fr": "Soupe de pois",
+      "ja": "ピースープ"
+    }
+  },
+  {
+    "cp_percent": 10,
     "cp_value": 21,
     "hq": true,
-    "id": "cc9aeb31e48",
+    "id": 4718,
     "name": {
-      "de": "Fachwissen-Kräuterwein",
-      "en": "Cunning Craftsman's Draught",
-      "fr": "Potion spiritueuse de capacité",
-      "ja": "魔匠の薬酒"
+      "de": "Erbsensuppe",
+      "en": "Pea Soup",
+      "fr": "Soupe de pois",
+      "ja": "ピースープ"
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 13,
+    "cp_percent": 10,
+    "cp_value": 24,
     "hq": false,
-    "id": "4fe710c87f9",
+    "id": 4719,
     "name": {
-      "de": "Artisanentrank des Fachwissens",
-      "en": "Cunning Craftsman's Syrup",
-      "fr": "Potion de capacité",
-      "ja": "魔匠の水薬"
+      "de": "Cawl Cennin",
+      "en": "Cawl Cennin",
+      "fr": "Bouillon de poireaux",
+      "ja": "カウルケニン"
     }
   },
   {
-    "cp_percent": 6,
-    "cp_value": 16,
+    "cp_percent": 10,
+    "cp_value": 24,
     "hq": true,
-    "id": "4fe710c87f9",
+    "id": 4719,
     "name": {
-      "de": "Artisanentrank des Fachwissens",
-      "en": "Cunning Craftsman's Syrup",
-      "fr": "Potion de capacité",
-      "ja": "魔匠の水薬"
+      "de": "Cawl Cennin",
+      "en": "Cawl Cennin",
+      "fr": "Bouillon de poireaux",
+      "ja": "カウルケニン"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 26,
+    "hq": false,
+    "id": 4720,
+    "name": {
+      "de": "Fischsuppe",
+      "en": "Fish Soup",
+      "fr": "Soupe de poisson",
+      "ja": "フィッシュスープ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 26,
+    "hq": true,
+    "id": 4720,
+    "name": {
+      "de": "Fischsuppe",
+      "en": "Fish Soup",
+      "fr": "Soupe de poisson",
+      "ja": "フィッシュスープ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 34,
+    "hq": false,
+    "id": 4721,
+    "name": {
+      "de": "Bouillabaisse",
+      "en": "Bouillabaisse",
+      "fr": "Bouillabaisse",
+      "ja": "ブイヤベース"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 34,
+    "hq": true,
+    "id": 4721,
+    "name": {
+      "de": "Bouillabaisse",
+      "en": "Bouillabaisse",
+      "fr": "Bouillabaisse",
+      "ja": "ブイヤベース"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 12,
+    "hq": false,
+    "id": 4722,
+    "name": {
+      "de": "Toffelbrei",
+      "en": "Mashed Popotoes",
+      "fr": "Purée de popotos",
+      "ja": "マッシュポポト"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 12,
+    "hq": true,
+    "id": 4722,
+    "name": {
+      "de": "Toffelbrei",
+      "en": "Mashed Popotoes",
+      "fr": "Purée de popotos",
+      "ja": "マッシュポポト"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 16,
+    "hq": false,
+    "id": 4723,
+    "name": {
+      "de": "Käserisotto",
+      "en": "Cheese Risotto",
+      "fr": "Risotto au fromage",
+      "ja": "チーズリゾット"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 16,
+    "hq": true,
+    "id": 4723,
+    "name": {
+      "de": "Käserisotto",
+      "en": "Cheese Risotto",
+      "fr": "Risotto au fromage",
+      "ja": "チーズリゾット"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 20,
+    "hq": false,
+    "id": 4724,
+    "name": {
+      "de": "Käseauflauf",
+      "en": "Cheese Souffle",
+      "fr": "Soufflé au fromage",
+      "ja": "チーズスフレ"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 20,
+    "hq": true,
+    "id": 4724,
+    "name": {
+      "de": "Käseauflauf",
+      "en": "Cheese Souffle",
+      "fr": "Soufflé au fromage",
+      "ja": "チーズスフレ"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 32,
+    "hq": false,
+    "id": 4725,
+    "name": {
+      "de": "Rolanbeeren-Käsekuchen",
+      "en": "Rolanberry Cheesecake",
+      "fr": "Gâteau au fromage à la rolanbaie",
+      "ja": "ロランベリーチーズケーキ"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 32,
+    "hq": true,
+    "id": 4725,
+    "name": {
+      "de": "Rolanbeeren-Käsekuchen",
+      "en": "Rolanberry Cheesecake",
+      "fr": "Gâteau au fromage à la rolanbaie",
+      "ja": "ロランベリーチーズケーキ"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 8,
+    "hq": false,
+    "id": 4726,
+    "name": {
+      "de": "Minz-Lassi",
+      "en": "Mint Lassi",
+      "fr": "Lassi à la menthe",
+      "ja": "ミントラッシー"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 8,
+    "hq": true,
+    "id": 4726,
+    "name": {
+      "de": "Minz-Lassi",
+      "en": "Mint Lassi",
+      "fr": "Lassi à la menthe",
+      "ja": "ミントラッシー"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 24,
+    "hq": false,
+    "id": 4727,
+    "name": {
+      "de": "Rolanbeeren-Lassi",
+      "en": "Rolanberry Lassi",
+      "fr": "Lassi à la rolanbaie",
+      "ja": "ロランベリーラッシー"
+    }
+  },
+  {
+    "craft_percent": 12,
+    "craft_value": 24,
+    "hq": true,
+    "id": 4727,
+    "name": {
+      "de": "Rolanbeeren-Lassi",
+      "en": "Rolanberry Lassi",
+      "fr": "Lassi à la rolanbaie",
+      "ja": "ロランベリーラッシー"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 22,
+    "hq": false,
+    "id": 6144,
+    "name": {
+      "de": "Dolchfisch-Suppe",
+      "en": "Dagger Soup",
+      "fr": "Soupe de dagues",
+      "ja": "ダガースープ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 22,
+    "hq": true,
+    "id": 6144,
+    "name": {
+      "de": "Dolchfisch-Suppe",
+      "en": "Dagger Soup",
+      "fr": "Soupe de dagues",
+      "ja": "ダガースープ"
     }
   },
   {
     "cp_percent": 4,
-    "cp_value": 10,
+    "cp_value": 14,
+    "craft_percent": 10,
+    "craft_value": 38,
     "hq": false,
-    "id": "e01fa653061",
+    "id": 7574,
     "name": {
-      "de": "Handwerkerkoryphäen-Tee",
-      "en": "Cunning Craftsman's Tea",
-      "fr": "Infusion de capacité",
-      "ja": "魔匠の薬茶"
+      "de": "Kalte Toffelsuppe",
+      "en": "Chilled Popoto Soup",
+      "fr": "Soupe de popotos glacée",
+      "ja": "冷製ポポトスープ"
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 13,
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craft_percent": 10,
+    "craft_value": 38,
     "hq": true,
-    "id": "e01fa653061",
+    "id": 7574,
     "name": {
-      "de": "Handwerkerkoryphäen-Tee",
-      "en": "Cunning Craftsman's Tea",
-      "fr": "Infusion de capacité",
-      "ja": "魔匠の薬茶"
+      "de": "Kalte Toffelsuppe",
+      "en": "Chilled Popoto Soup",
+      "fr": "Soupe de popotos glacée",
+      "ja": "冷製ポポトスープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craft_percent": 10,
+    "craft_value": 49,
+    "hq": false,
+    "id": 9333,
+    "name": {
+      "de": "Haifischflossensuppe",
+      "en": "Shark Fin Soup",
+      "fr": "Soupe d'aileron",
+      "ja": "フカヒレスープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craft_percent": 10,
+    "craft_value": 49,
+    "hq": true,
+    "id": 9333,
+    "name": {
+      "de": "Haifischflossensuppe",
+      "en": "Shark Fin Soup",
+      "fr": "Soupe d'aileron",
+      "ja": "フカヒレスープ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 38,
+    "hq": false,
+    "id": 10146,
+    "name": {
+      "de": "Königskuchen",
+      "en": "Better Crowned Pie",
+      "fr": "Galette des rois spéciale",
+      "ja": "秘製ガレット・デ・ロワ"
+    }
+  },
+  {
+    "control_percent": 8,
+    "control_value": 38,
+    "hq": true,
+    "id": 10146,
+    "name": {
+      "de": "Königskuchen",
+      "en": "Better Crowned Pie",
+      "fr": "Galette des rois spéciale",
+      "ja": "秘製ガレット・デ・ロワ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 38,
+    "craft_percent": 4,
+    "craft_value": 22,
+    "hq": false,
+    "id": 12861,
+    "name": {
+      "de": "Überbackene Zwiebelsuppe",
+      "en": "Baked Onion Soup",
+      "fr": "Soupe à l'oignon",
+      "ja": "オニオングラタンスープ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 38,
+    "craft_percent": 4,
+    "craft_value": 22,
+    "hq": true,
+    "id": 12861,
+    "name": {
+      "de": "Überbackene Zwiebelsuppe",
+      "en": "Baked Onion Soup",
+      "fr": "Soupe à l'oignon",
+      "ja": "オニオングラタンスープ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 54,
+    "craft_percent": 4,
+    "craft_value": 23,
+    "hq": false,
+    "id": 12862,
+    "name": {
+      "de": "Purpurrote Bete-Suppe",
+      "en": "Beet Soup",
+      "fr": "Soupe pourpre",
+      "ja": "クリムゾンスープ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 54,
+    "craft_percent": 4,
+    "craft_value": 23,
+    "hq": true,
+    "id": 12862,
+    "name": {
+      "de": "Purpurrote Bete-Suppe",
+      "en": "Beet Soup",
+      "fr": "Soupe pourpre",
+      "ja": "クリムゾンスープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 15,
+    "craft_percent": 10,
+    "craft_value": 60,
+    "hq": false,
+    "id": 12863,
+    "name": {
+      "de": "Emeraldgrüne Bohnensuppe",
+      "en": "Emerald Soup",
+      "fr": "Soupe émeraude",
+      "ja": "エメラルドスープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 15,
+    "craft_percent": 10,
+    "craft_value": 60,
+    "hq": true,
+    "id": 12863,
+    "name": {
+      "de": "Emeraldgrüne Bohnensuppe",
+      "en": "Emerald Soup",
+      "fr": "Soupe émeraude",
+      "ja": "エメラルドスープ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 58,
+    "cp_percent": 4,
+    "cp_value": 15,
+    "hq": false,
+    "id": 12864,
+    "name": {
+      "de": "Muschelsuppe",
+      "en": "Clam Chowder",
+      "fr": "Chaudrée de palourdes",
+      "ja": "クラムチャウダー"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 58,
+    "cp_percent": 4,
+    "cp_value": 15,
+    "hq": true,
+    "id": 12864,
+    "name": {
+      "de": "Muschelsuppe",
+      "en": "Clam Chowder",
+      "fr": "Chaudrée de palourdes",
+      "ja": "クラムチャウダー"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 25,
+    "cp_percent": 12,
+    "cp_value": 40,
+    "hq": false,
+    "id": 12865,
+    "name": {
+      "de": "Ishgarder Fischtopf",
+      "en": "Seafood Stew",
+      "fr": "Ragoût du pêcheur",
+      "ja": "トマトシチュー"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 25,
+    "cp_percent": 12,
+    "cp_value": 40,
+    "hq": true,
+    "id": 12865,
+    "name": {
+      "de": "Ishgarder Fischtopf",
+      "en": "Seafood Stew",
+      "fr": "Ragoût du pêcheur",
+      "ja": "トマトシチュー"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 70,
+    "craft_percent": 4,
+    "craft_value": 30,
+    "hq": false,
+    "id": 14139,
+    "name": {
+      "de": "Austern-Confit",
+      "en": "Oyster Confit",
+      "fr": "Huîtres confites",
+      "ja": "オイスターコンフィ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 70,
+    "craft_percent": 4,
+    "craft_value": 30,
+    "hq": true,
+    "id": 14139,
+    "name": {
+      "de": "Austern-Confit",
+      "en": "Oyster Confit",
+      "fr": "Huîtres confites",
+      "ja": "オイスターコンフィ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 62,
+    "cp_percent": 3,
+    "cp_value": 8,
+    "craft_percent": 5,
+    "craft_value": 42,
+    "hq": false,
+    "id": 15650,
+    "name": {
+      "de": "Himmelseier-Suppe",
+      "en": "Heavensegg Soup",
+      "fr": "Soupe aux célestœufs",
+      "ja": "ヘヴンスエッグスープ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 62,
+    "cp_percent": 3,
+    "cp_value": 8,
+    "craft_percent": 5,
+    "craft_value": 42,
+    "hq": true,
+    "id": 15650,
+    "name": {
+      "de": "Himmelseier-Suppe",
+      "en": "Heavensegg Soup",
+      "fr": "Soupe aux célestœufs",
+      "ja": "ヘヴンスエッグスープ"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 16,
+    "craft_percent": 10,
+    "craft_value": 109,
+    "hq": false,
+    "id": 19824,
+    "name": {
+      "de": "Gedünsteter Zackenbarsch",
+      "en": "Steamed Grouper",
+      "fr": "Garoupa à l'étuvée",
+      "ja": "キジハタの清蒸"
+    }
+  },
+  {
+    "cp_percent": 4,
+    "cp_value": 16,
+    "craft_percent": 10,
+    "craft_value": 109,
+    "hq": true,
+    "id": 19824,
+    "name": {
+      "de": "Gedünsteter Zackenbarsch",
+      "en": "Steamed Grouper",
+      "fr": "Garoupa à l'étuvée",
+      "ja": "キジハタの清蒸"
+    }
+  },
+  {
+    "cp_percent": 12,
+    "cp_value": 43,
+    "craft_percent": 4,
+    "craft_value": 42,
+    "hq": false,
+    "id": 19826,
+    "name": {
+      "de": "Tempura-Platte",
+      "en": "Tempura Platter",
+      "fr": "Assortiment de tenpura",
+      "ja": "天ぷら盛り合わせ"
+    }
+  },
+  {
+    "cp_percent": 12,
+    "cp_value": 43,
+    "craft_percent": 4,
+    "craft_value": 42,
+    "hq": true,
+    "id": 19826,
+    "name": {
+      "de": "Tempura-Platte",
+      "en": "Tempura Platter",
+      "fr": "Assortiment de tenpura",
+      "ja": "天ぷら盛り合わせ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 39,
+    "craft_percent": 10,
+    "craft_value": 104,
+    "hq": false,
+    "id": 19834,
+    "name": {
+      "de": "Miso-Suppe mit Tofu",
+      "en": "Miso Soup with Tofu",
+      "fr": "Soupe miso au tôfu",
+      "ja": "豆腐の味噌汁"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 39,
+    "craft_percent": 10,
+    "craft_value": 104,
+    "hq": true,
+    "id": 19834,
+    "name": {
+      "de": "Miso-Suppe mit Tofu",
+      "en": "Miso Soup with Tofu",
+      "fr": "Soupe miso au tôfu",
+      "ja": "豆腐の味噌汁"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 99,
+    "craft_percent": 4,
+    "craft_value": 42,
+    "hq": false,
+    "id": 19837,
+    "name": {
+      "de": "Kriegereintopf",
+      "en": "Warrior's Stew",
+      "fr": "Nogootoj shol",
+      "ja": "ゼラスープ"
+    }
+  },
+  {
+    "control_percent": 10,
+    "control_value": 99,
+    "craft_percent": 4,
+    "craft_value": 42,
+    "hq": true,
+    "id": 19837,
+    "name": {
+      "de": "Kriegereintopf",
+      "en": "Warrior's Stew",
+      "fr": "Nogootoj shol",
+      "ja": "ゼラスープ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 49,
+    "cp_percent": 12,
+    "cp_value": 45,
+    "hq": false,
+    "id": 23187,
+    "name": {
+      "de": "Matcha-Tee",
+      "en": "Matcha",
+      "fr": "Matcha",
+      "ja": "抹茶"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 49,
+    "cp_percent": 12,
+    "cp_value": 45,
+    "hq": true,
+    "id": 23187,
+    "name": {
+      "de": "Matcha-Tee",
+      "en": "Matcha",
+      "fr": "Matcha",
+      "ja": "抹茶"
+    }
+  },
+  {
+    "cp_percent": 8,
+    "cp_value": 22,
+    "craft_percent": 7,
+    "craft_value": 122,
+    "hq": false,
+    "id": 27864,
+    "name": {
+      "de": "Bluttomatensalat",
+      "en": "Blood Tomato Salad",
+      "fr": "Salade de tomates sanguines",
+      "ja": "ブラッドトマトサラダ"
+    }
+  },
+  {
+    "cp_percent": 8,
+    "cp_value": 22,
+    "craft_percent": 7,
+    "craft_value": 122,
+    "hq": true,
+    "id": 27864,
+    "name": {
+      "de": "Bluttomatensalat",
+      "en": "Blood Tomato Salad",
+      "fr": "Salade de tomates sanguines",
+      "ja": "ブラッドトマトサラダ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 118,
+    "craft_percent": 4,
+    "craft_value": 53,
+    "hq": false,
+    "id": 27871,
+    "name": {
+      "de": "Ockertoffel-Gratin",
+      "en": "Popotoes au Gratin",
+      "fr": "Gratin de popotos brunes",
+      "ja": "ラセットポポトグラタン"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 118,
+    "craft_percent": 4,
+    "craft_value": 53,
+    "hq": true,
+    "id": 27871,
+    "name": {
+      "de": "Ockertoffel-Gratin",
+      "en": "Popotoes au Gratin",
+      "fr": "Gratin de popotos brunes",
+      "ja": "ラセットポポトグラタン"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 51,
+    "cp_percent": 21,
+    "cp_value": 53,
+    "hq": false,
+    "id": 27876,
+    "name": {
+      "de": "Blut-Bouillabaisse",
+      "en": "Blood Bouillabaisse",
+      "fr": "Bouillabaisse sanguine",
+      "ja": "ブラッドブイヤベース"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 51,
+    "cp_percent": 21,
+    "cp_value": 53,
+    "hq": true,
+    "id": 27876,
+    "name": {
+      "de": "Blut-Bouillabaisse",
+      "en": "Blood Bouillabaisse",
+      "fr": "Bouillabaisse sanguine",
+      "ja": "ブラッドブイヤベース"
+    }
+  },
+  {
+    "cp_percent": 21,
+    "cp_value": 56,
+    "craft_percent": 5,
+    "craft_value": 84,
+    "hq": false,
+    "id": 28720,
+    "name": {
+      "de": "Miserabelmuscheln al Ajillo",
+      "en": "Mejillones al Ajillo",
+      "fr": "Moules al ajillo",
+      "ja": "ムセルアヒージョ"
+    }
+  },
+  {
+    "cp_percent": 21,
+    "cp_value": 56,
+    "craft_percent": 5,
+    "craft_value": 84,
+    "hq": true,
+    "id": 28720,
+    "name": {
+      "de": "Miserabelmuscheln al Ajillo",
+      "en": "Mejillones al Ajillo",
+      "fr": "Moules al ajillo",
+      "ja": "ムセルアヒージョ"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 56,
+    "cp_percent": 21,
+    "cp_value": 57,
+    "hq": false,
+    "id": 30482,
+    "name": {
+      "de": "Chili-Krabbengericht",
+      "en": "Chili Crab",
+      "fr": "Chili de crabe",
+      "ja": "チリクラブ"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 56,
+    "cp_percent": 21,
+    "cp_value": 57,
+    "hq": true,
+    "id": 30482,
+    "name": {
+      "de": "Chili-Krabbengericht",
+      "en": "Chili Crab",
+      "fr": "Chili de crabe",
+      "ja": "チリクラブ"
+    }
+  },
+  {
+    "cp_percent": 8,
+    "cp_value": 26,
+    "craft_percent": 7,
+    "craft_value": 146,
+    "hq": false,
+    "id": 36046,
+    "name": {
+      "de": "Glückskarottensaft",
+      "en": "Happiness Juice",
+      "fr": "Jus de bonheur",
+      "ja": "ハピネスジュース"
+    }
+  },
+  {
+    "cp_percent": 8,
+    "cp_value": 26,
+    "craft_percent": 7,
+    "craft_value": 146,
+    "hq": true,
+    "id": 36046,
+    "name": {
+      "de": "Glückskarottensaft",
+      "en": "Happiness Juice",
+      "fr": "Jus de bonheur",
+      "ja": "ハピネスジュース"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 132,
+    "craft_percent": 4,
+    "craft_value": 62,
+    "hq": false,
+    "id": 36053,
+    "name": {
+      "de": "Riesentaramosalata",
+      "en": "Giant Haddock Dip",
+      "fr": "Tarama géant",
+      "ja": "ジャイアントタラモサラータ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 132,
+    "craft_percent": 4,
+    "craft_value": 62,
+    "hq": true,
+    "id": 36053,
+    "name": {
+      "de": "Riesentaramosalata",
+      "en": "Giant Haddock Dip",
+      "fr": "Tarama géant",
+      "ja": "ジャイアントタラモサラータ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 61,
+    "cp_percent": 21,
+    "cp_value": 62,
+    "hq": false,
+    "id": 36060,
+    "name": {
+      "de": "Tsai Tou Vounou",
+      "en": "Tsai tou Vounou",
+      "fr": "Chai tou vounou",
+      "ja": "チャイ・トゥ・ヴヌー"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 61,
+    "cp_percent": 21,
+    "cp_value": 62,
+    "hq": true,
+    "id": 36060,
+    "name": {
+      "de": "Tsai Tou Vounou",
+      "en": "Tsai tou Vounou",
+      "fr": "Chai tou vounou",
+      "ja": "チャイ・トゥ・ヴヌー"
+    }
+  },
+  {
+    "cp_percent": 21,
+    "cp_value": 66,
+    "craft_percent": 4,
+    "craft_value": 96,
+    "hq": false,
+    "id": 37282,
+    "name": {
+      "de": "Calamari Ripieni",
+      "en": "Calamari Ripieni",
+      "fr": "Khalamar ripieni",
+      "ja": "カラマリ・リピエーニ"
+    }
+  },
+  {
+    "cp_percent": 21,
+    "cp_value": 66,
+    "craft_percent": 4,
+    "craft_value": 96,
+    "hq": true,
+    "id": 37282,
+    "name": {
+      "de": "Calamari Ripieni",
+      "en": "Calamari Ripieni",
+      "fr": "Khalamar ripieni",
+      "ja": "カラマリ・リピエーニ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 72,
+    "cp_percent": 21,
+    "cp_value": 69,
+    "hq": false,
+    "id": 38929,
+    "name": {
+      "de": "Zingarnelen-Biryani",
+      "en": "Jhinga Biryani",
+      "fr": "Biryani aux crevettes jhingas",
+      "ja": "ジンガビリヤニ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 72,
+    "cp_percent": 21,
+    "cp_value": 69,
+    "hq": true,
+    "id": 38929,
+    "name": {
+      "de": "Zingarnelen-Biryani",
+      "en": "Jhinga Biryani",
+      "fr": "Biryani aux crevettes jhingas",
+      "ja": "ジンガビリヤニ"
     }
   }
 ]
