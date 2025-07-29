@@ -1,14 +1,12 @@
 # FFXIV Crafting Optimizer Website
 
-This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
+This project contains the source for the [FFXIV Crafting Optimizer Website](https://notranged.github.io/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
 # Updating item and food databases
 
-For the notranged.github.io version of this tool, I have written a new Python scraper that pulls recipe data from xivapi.com. Whenever FFXIV gets updated with new crafting recpes, run main_scraper.py found in scripts/ranged-python-xivapi-extractor/. It will create new .json files for each job in the /out/ folder. Use these to replace the old .json files in app/data/recipedb/
+For the notranged.github.io version of this tool, I have written a new Python scraper that pulls recipe, food, medicine data from xivapi.com. Whenever FFXIV gets updated with new crafting recipes, food, or medicine, run xivapi_calls.py found in the scripts directory. It will create new .json files for each job, food, and medicine in the /app/data or /data directory.
 
-### Food and Medicine
-I haven't made this script work for food and medicine buffs yet, though. You will have to use [the old lodestone scraper](https://github.com/doxxx/lodestone-recipe-db-scraper) for that. Run it with argument --buffs, e.g. 'python main.py --buffs'
-
+An alternative script can be found below;
 At some point I made an [updated version of that script](https://github.com/NotRanged/ranged-lodestone-recipe-db-scraper) but idk what i changed about it anymore i forgor 💀
 
 # Development (old readme)
